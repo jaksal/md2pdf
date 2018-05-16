@@ -14,6 +14,10 @@
   fc-cache -f -v
   
 3. download source, goto source directory
+  git clone https://github.com/jaksal/md2pdf.git
+  cd md2pdf
   npm install
+  
+4. convert md to pdf
   node index.js -i result.md -o result.pdf
   
