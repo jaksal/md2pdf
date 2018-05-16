@@ -1,0 +1,25 @@
+{
+  "name": "md2pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "cheerio": "^0.20.0",
+    "emoji-images": "^0.1.1",
+    "highlight.js": "^9.5.0",
+    "html-pdf": "^2.0.1",
+    "markdown-it": "^7.0.0",
+    "markdown-it-checkbox": "^1.1.0",
+    "markdown-it-emoji": "^1.2.0",
+    "mustache": "^2.2.1",
+    "which": "^1.2.10",
+	"phantomjs-prebuilt": "^2.1.4"
+
+  }
+}
